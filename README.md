@@ -1,1 +1,1 @@
-my first readme
+It's almost perfection.
